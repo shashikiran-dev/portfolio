@@ -1,73 +1,65 @@
-# Welcome to My Portfolio
+# 🚀 Shashi Kiran | Software Engineer Portfolio
 
-## Project info
+Welcome to my **personal portfolio repository** 👋  
+This project showcases my **skills, projects, internships, and technical journey** as a Computer Science student and aspiring Software Engineer.
 
-**URL**: https://lovable.dev/projects/60a771b7-ce80-44a7-9db0-a2051140d8c5
+🌐 **Live Portfolio:**  
+👉 [https://lovable.dev/projects/60a771b7-ce80-44a7-9db0-a2051140d8c5](https://selfpage-woad.vercel.app/)
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 👨‍💻 About Me
 
-**Use Lovable**
+I’m **Shashi Kiran**, a Computer Science & Technology student at  
+**G. Pulla Reddy Engineering College (Autonomous), Kurnool** 🎓
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/60a771b7-ce80-44a7-9db0-a2051140d8c5) and start prompting.
+- 💡 Passionate about **Web Development, Backend Systems & Problem Solving**
+- 🧠 Strong foundation in **Data Structures & Algorithms**
+- 🛠️ Experience with **Java, JavaScript, React, HTML, CSS**
+- 🌱 Continuously learning modern technologies and best practices
 
-Changes made via Lovable will be committed automatically to this repo.
+This portfolio is a **living project** — updated regularly as I grow 🚀
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🧩 What’s Inside This Portfolio?
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+✔️ About Me  
+✔️ Technical Skills  
+✔️ Academic & Personal Projects  
+✔️ Internships & Certifications  
+✔️ Achievements & Leadership Experience  
+✔️ Contact Information  
 
-Follow these steps:
+Designed to give **recruiters and developers** a clear overview of my profile.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+---
+
+## 🛠️ Tech Stack
+
+This portfolio is built using modern frontend technologies:
+
+- ⚡ Vite  
+- ⚛️ React  
+- 🟦 TypeScript  
+- 🎨 Tailwind CSS  
+- 🧩 shadcn/ui  
+
+---
+
+## 🖥️ Run Locally
+
+To run this project on your local machine:
+
+```bash
+# Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
+# Navigate to the project directory
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start the development server
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/60a771b7-ce80-44a7-9db0-a2051140d8c5) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
